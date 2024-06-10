@@ -1,2 +1,2 @@
 var msg = "Swatantra"
-console.log(msg)
+console.log(msg + "is a good boy")
